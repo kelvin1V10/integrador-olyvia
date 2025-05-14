@@ -7,7 +7,7 @@ export default function Sidebar() {
       <div>
         <div className="flex items-center mb-10">
           <div className="text-4xl mr-2">🤖</div>
-          <h1 className="text-xl font-bold">Olyvia</h1>
+          <h1 className="text-xl font-bold">SmartMange</h1>
         </div>
 
         <nav className="space-y-4">

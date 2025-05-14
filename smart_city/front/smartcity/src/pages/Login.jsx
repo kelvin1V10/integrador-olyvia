@@ -31,8 +31,8 @@ export default function Login() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-blue-800 to-black p-4 gap-20">
       <div className="flex items-center justify-center">
-      <img src={logo} alt="Logo Olyvia" className="w-25 h-25 rounded" />
-      <h1 className="text-white text-6xl ml-7">olyvia</h1>
+      <img src={logo} alt="Logo" className="w-25 h-25 rounded" />
+      <h1 className="text-white text-6xl ml-7">SmartMange</h1>
       </div>
       <div className="w-[500px] p-8 flex flex-col justify-center bg-white rounded-2xl shadow-lg">
           <h2 className="text-2xl font-bold text-center mb-6">Login</h2>
